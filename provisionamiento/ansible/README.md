@@ -27,6 +27,7 @@ PROVISIONAMIENTO DEL PROYECTO
 >
 >>	* ansible all -m ping -u root
 
+
 ![Con titulo](https://github.com/daiaguirre979/CC-Master/raw/master/ansible1.png "ansible")
 
 
@@ -44,6 +45,7 @@ PROVISIONAMIENTO DEL PROYECTO
 
 >
 >>	ansible-playbook webserver.yml
+
 
 ![Con titulo](https://github.com/daiaguirre979/CC-Master/raw/master/ansible.png "playbook")
 
