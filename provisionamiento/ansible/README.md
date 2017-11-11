@@ -6,6 +6,8 @@ PROVISIONAMIENTO DEL PROYECTO
 #### Acontinuacion se detalla los pasos para su configuracion.
 
 1. Verificar la version de Pyton 2.7 o superior.
+>
+>>	python --version
 
 2. Para la instalaccion de ansible.
 
