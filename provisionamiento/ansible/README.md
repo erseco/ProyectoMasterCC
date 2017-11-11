@@ -8,6 +8,7 @@ PROVISIONAMIENTO DEL PROYECTO
 1. Verificar la version de Pyton 2.7 o superior.
 
 2. Para la instalaccion de ansible.
+
 >
 >>	* sudo apt-get install software-properties-common
 >>	* sudo apt-add-repository ppa:ansible/ansible
