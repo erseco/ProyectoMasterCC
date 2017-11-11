@@ -14,6 +14,7 @@ PROVISIONAMIENTO DEL PROYECTO
 >>	* sudo apt-get install ansible
 
 3. Modificar el archivo /etc/ansible/hosts donde indicaremos el o los nodos donde se ejecutaran las tareas automaticamente.
+
 >
 >>	[webserver]
 >>	192.168.1.94
