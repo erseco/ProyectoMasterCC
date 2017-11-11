@@ -41,6 +41,7 @@ PROVISIONAMIENTO DEL PROYECTO
 
 
 6.- Finalmente ejecutamos el playbook
+
 >
 >>	ansible-playbook webserver.yml
 
