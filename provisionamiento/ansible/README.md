@@ -19,6 +19,7 @@ PROVISIONAMIENTO DEL PROYECTO
 >>	192.168.1.94
 
 4. Como modo se seguridad vamos a crear un par de claves para la autenticacion ssh y finalizando verificamos su conexion.
+
 >
 >>	* ansible all -m ping -u root
 
