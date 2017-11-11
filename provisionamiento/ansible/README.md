@@ -29,12 +29,5 @@ Acontinuacion se detalla los pasos para su configuracion.
       apt:
           update_cache: yes...
 
-
-
-
-
-
-
-
-	
-
+6.- Finalmente ejecutamos el playbook
+ 	ansible-playbook webserver.yml
